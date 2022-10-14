@@ -1,0 +1,70 @@
+h1 {
+    color:rgb(18, 17, 17);
+    font-family: 'Times New Roman';
+    font-size:2.4vw;
+    margin-left: 34%;
+  }
+  
+  
+  .ob {
+    color:black;
+    margin-left: 4%; 
+    margin-right: 4%;  
+    
+  }
+  .move{
+    margin-left: 8%;
+  }
+  .back{
+    background-color:white;
+    width: 70%;
+    margin-left: 15%;
+    border:solid #940656 3px ;
+  }
+  hr{
+    background-color: #940656;
+    height: 1.5px;
+  }
+  img{
+    margin-left: 40%;
+    border-radius: 60%;
+    max-width:35%;height:auto;
+  }
+  .column{
+    width: 50%;
+    float:left;
+    height:40vh;
+    background-color: #940656;
+  }
+  h5{
+    margin-left: 30%;
+    font-size:1vw;
+    color:white;
+  }
+  .course{
+    margin-left: 30%;
+    font-size:1.5vw;
+    color:white;
+  }
+  h2{
+
+    font-size:1.5vw;
+    color:white;
+  }
+  h3{
+    font-size:1.5vw;
+    color:black;
+  }
+  body{
+    margin: 0;
+    background-color: lightgray;
+  }
+  p{
+    font-size:1vw;
+    color:black;
+  }
+  @media only screen and (max-width: 430px) {
+    .column{
+      height:12vh;
+    }
+  }
